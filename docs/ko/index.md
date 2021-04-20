@@ -4,7 +4,7 @@ heroImage: /home.png
 heroText: UNIA3
 tagline: Unia3 Help Document
 actionText: Get Started →
-actionLink: /intro/
+actionLink: /ko/intro/
 features:
 - title: 任何时间
   details: 可以在任何时间使用UNIA3进行业务。
